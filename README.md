@@ -9,7 +9,7 @@ When procrastinating, I can be found baking (and eating) bread 🥖 and reading 
 
 😄 Pronouns: she/her
 
-## Interests ##
+## Research Interests ##
  - Neuroaesthetics
  - Cognitive Neuroscience 
  - Meaning-Making & Post-Traumatic Growth
