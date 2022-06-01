@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 🦊 #
 
-<!--
-**Stephmkirk/Stephmkirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me ##
 
-Here are some ideas to get you started:
+I graduated from the University of British Columbia with a BA in Psychology in 2019, and received my MA in Museum Studies & Curatorial Practice from Nanyang Technological University in 2021. Currently, I am a Research Assistant at the [Clinical Brain Lab](http://www.clinicalbrain.org/)
+I'm keen on understanding how creative place-making and neuroaesthetics can be used to promote community resilience, especially for marginalized communities 👩‍🎨 🧠 🏡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When procrastinating, I can be found baking (and eating) bread 🥖 and reading SF/F 🧝‍♀️ 
+
+😄 Pronouns: she/her
+
+## Interests ##
+ - Neuroaesthetics
+ - Cognitive Neuroscience 
+ - Meaning-Making & Post-Traumatic Growth
