@@ -6,8 +6,6 @@ I graduated from the University of British Columbia with a BA in Psychology in 2
 
 When procrastinating, I can be found baking (and eating) bread 🥖 and reading SF/F 🧝‍♀️ 
 
-😄 Pronouns: she/her
-
 ## Research Interests ##
  - Neuroaesthetics
  - Cognitive Neuroscience 
